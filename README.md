@@ -4,7 +4,7 @@
 
 
 
-## This app is for Installing macOS High Sierra 10.13 on Hackintosh PC and Laptop.
+## This app is for Installing macOS High Sierra 10.13 on Hackintosh PC and Laptop (Testing macOS High Sierra BETA-1, BETA-2 BETA-2+1).
 
 
 
