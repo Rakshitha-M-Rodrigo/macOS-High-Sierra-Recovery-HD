@@ -25,7 +25,7 @@ Working Inside OS X Mavericks / OS X Yosemite / OS X El Capitan / macOS Sierra /
  
 ## You need Install macOS High Sierra Beta.app (From Mac App Store)
  
-## Credit Apple, Clover Team, all HMF tester :arcade33, rouletabosse, dionnode, mshdmus68, Bumbay, Iosecannnon2013, ricoc90.
+## Credit Apple, Clover Team, all HMF tester :arcade33, rouletabosse, dionnode, mshdmus68, Bumbay, Iosecannnon2013, ricoc90, chris1111.
 
 
 ![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/captur48.png)
