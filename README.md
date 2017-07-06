@@ -17,6 +17,8 @@ Working Inside OS X Mavericks / OS X Yosemite / OS X El Capitan / macOS Sierra /
 
 ## You must disable the security SIP on your Mac or Hackintosh to use this App
 
+## You must have a working network connection (Even on the Installation)
+
 ## You need minimum (2 Gig USB) drive
 
 ## You need Blank SSD or HD for Install macOS High Sierra
