@@ -34,4 +34,4 @@ Working Inside OS X Mavericks / OS X Yosemite / OS X El Capitan / macOS Sierra /
 
 1. Download the Release and Follow every steps in the Video
 
-[![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/camera10.png)](https://www.youtube.com/watch?v=D9pt8X0SHGU)
+[![Modular Image Creation](https://i11.servimg.com/u/f11/18/50/18/69/video_10.png)](https://www.youtube.com/watch?v=D9pt8X0SHGU)
