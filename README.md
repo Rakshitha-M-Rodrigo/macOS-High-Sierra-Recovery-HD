@@ -19,7 +19,7 @@ Working Inside OS X Mavericks / OS X Yosemite / OS X El Capitan / macOS Sierra /
 
 ## You need minimum (2 Gig USB) drive
 
-## You need Blank SSD for Install macOS High Sierra
+## You need Blank SSD or HD for Install macOS High Sierra
  
 ## You need Install macOS High Sierra Beta.app (From Mac App Store)
  
