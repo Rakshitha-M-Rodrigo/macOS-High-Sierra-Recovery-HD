@@ -9,11 +9,9 @@ function head
 {
 clear
 echo "                        `tput setaf 7``tput sgr0``tput bold``tput setaf 10`© Copyright 2017 chris1111`tput sgr0` `tput setaf 7``tput sgr0`"
-echo "               =================================================== "
-echo "  
-                 `tput setaf 7``tput sgr0``tput bold``tput setaf 10` \033[5mInstaller macOS High Sierra Recovery HD`tput sgr0` `tput setaf 7``tput sgr0` "
-
-echo "               =================================================== "
+echo " 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 
+                 `tput setaf 7``tput sgr0``tput bold``tput setaf 10` \033[5mInstaller macOS High Sierra Recovery HD`tput sgr0` `tput setaf 7``tput sgr0` 
+ 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 "
 
 echo " "
 }
@@ -52,12 +50,9 @@ echo "                     ❎  X = ➖`tput setaf 7``tput sgr0``tput bold``tput
 echo "               =================================================== "
 echo " "
 
-echo "               =================================================== "
-
-echo "  
-                         `tput setaf 7``tput sgr0``tput bold``tput setaf 10`     \033[5mAre you ready?`tput sgr0` `tput setaf 7``tput sgr0`\033[0m"
-
-echo "               =================================================== "
+echo " 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 
+                         `tput setaf 7``tput sgr0``tput bold``tput setaf 10`     \033[5mAre you ready?`tput sgr0` `tput setaf 7``tput sgr0` 
+ 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 🔳 \033[0m"
 
 read -n 1 option
 }

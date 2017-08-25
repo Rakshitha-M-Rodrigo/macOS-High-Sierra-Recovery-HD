@@ -4,11 +4,11 @@
 
 
 
-## This app is for Installing macOS High Sierra 10.13 on Hackintosh PC and Laptop (Testing macOS High Sierra BETA-1, BETA-2, BETA-2+1).
+## This app is for Installing macOS High Sierra 10.13 on Hackintosh PC and Laptop (Testing macOS High Sierra Developer Beta 1,2,3,4,5,6,7).
 
 
 
-Containing also Clover EFI Bootloader revision v2.4k r4104 mode UEFI, ESP, Legacy 
+Containing also Clover EFI Bootloader revision v2.4k r4187 mode UEFI, ESP, Legacy 
 ### *** Important *** You can not use the Clover Post Installer package on an APFS volume
 
 PS: (Working for UEFI and Legacy configurations)
